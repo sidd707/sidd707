@@ -4,13 +4,13 @@ web dev and creative problem-solving. I thrive in collaborative project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd707&label=Profile%20views&color=0e75b6&style=flat" alt="sidd707" /> </p>
 
-- 🔭 I’m currently working on **effective online exam system**
+- 🔭 I’m currently working on **Multiple AI projects.**
 
 - 🌱 I’m currently learning **prompt engineering,full stack development**
 
 - 📫 How to reach me **sidd707888@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1olD7aYVwFTuwdn8XbYuBrAzTIGu3JSNz/view?usp=drive_link](https://drive.google.com/file/d/1Kd4IwggM9vd_vkZioeQ7cqUWpwXRF21U/view?usp=sharing)](https://drive.google.com/file/d/1olD7aYVwFTuwdn8XbYuBrAzTIGu3JSNz/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1olD7aYVwFTuwdn8XbYuBrAzTIGu3JSNz/view?usp=drive_link](https://drive.google.com/file/d/1olD7aYVwFTuwdn8XbYuBrAzTIGu3JSNz/view?usp=drive_link)
 
 - ⚡ Fun fact **People call me introvert ,don't trust people**
 
