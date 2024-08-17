@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Patel</h1>
-<h3 align="center">A passionate AI developer also a prompt engineer</h3>
+<h3 align="center"Dedicated and innovative individual with a strong background in AI and ML,
+web dev and creative problem-solving. I thrive in collaborative project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd707&label=Profile%20views&color=0e75b6&style=flat" alt="sidd707" /> </p>
 
