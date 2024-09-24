@@ -1,5 +1,24 @@
 
-# 💫 About Me:<br>💡 A passionate AI and machine learning enthusiast with a strong foundation in **deep learning** and **large language models (LLMs)**. I'm currently working on exciting projects that utilize advanced **neural network architectures** to solve real-world problems across various domains like **healthcare, computer vision**, and **natural language processing**. My expertise spans **AI/ML**, **Generative AI**, and **LLM fine-tuning**, always pushing boundaries in the pursuit of innovation.<br><br>🤝 I’m actively looking to collaborate on **cutting-edge AI/ML projects**, especially those involving **transformer models**, **LLMs**, and **AI-driven applications**. I enjoy tackling novel challenges and contributing to open-source projects.<br><br>🌱 Currently deep-diving into **advanced neural networks**, **model optimization techniques**, and **AI scalability**. Whether it's experimenting with state-of-the-art architectures or fine-tuning models for precision, I love staying at the forefront of technology.<br><br>💬 Ask me about **AI research**, **ML algorithms**, **Generative AI**, or any technical topic related to **AI/ML**. I’m always up for sharing insights or bouncing ideas to explore what's possible in the AI space.<br><br>⚡ Fun Fact: When I’m not coding, I love diving deep into AI research papers, staying up-to-date with the latest advancements in machine learning, and experimenting with **new models** or **frameworks** in my free time. You can often find me contributing to open-source or building side projects to explore fresh ideas.<br><br>📫 Let’s connect and build the future of AI together! Check out my work:<br>- GitHub: [github.com/sidd707](https://github.com/sidd707)<br>- LinkedIn: [linkedin.com/in/siddharth-patel-505935251](https://www.linkedin.com/in/siddharth-patel-505935251)<br>
+# About Me
+**💡 Passionate AI and machine learning enthusiast** with a strong foundation in **deep learning** and **large language models (LLMs)**. I'm working on exciting projects using advanced **neural network architectures** to solve real-world problems in **healthcare, computer vision**, and **natural language processing**. My expertise spans **AI/ML**, **Generative AI**, and **LLM fine-tuning**, always pushing the boundaries of innovation.
+
+## What I’m Looking For:
+🤝 I’m actively seeking collaboration on **cutting-edge AI/ML projects**, especially involving **transformer models**, **LLMs**, and **AI-driven applications**. I enjoy tackling novel challenges and contributing to open-source projects.
+
+## What I'm Learning:
+🌱 Currently diving into **advanced neural networks**, **model optimization techniques**, and **AI scalability**. Whether experimenting with state-of-the-art architectures or fine-tuning models for precision, I aim to stay at the forefront of technology.
+
+## Let’s Connect:
+💬 Ask me about **AI research**, **ML algorithms**, **Generative AI**, or any **technical topic** related to **AI/ML**. I’m always up for sharing insights or bouncing ideas to explore what's possible in the AI space.
+
+⚡ **Fun Fact:** When not coding, I enjoy reading AI research papers, staying updated with the latest advancements, and experimenting with **new models** or **frameworks**.
+
+📫 **Let’s build the future of AI together!**
+
+### Check out my work:
+- GitHub: [github.com/sidd707](https://github.com/sidd707)
+- LinkedIn: [linkedin.com/in/siddharth-patel-505935251](https://www.linkedin.com/in/siddharth-patel-505935251)
+
 
 
 # 💻 Tech Stack:
