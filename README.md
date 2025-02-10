@@ -1,23 +1,64 @@
+# Hello Fellow <Developers/>!!! 👋  
+Hi! My name is **Siddharth Patel**. I am a **B.Tech Computer Science** student at **Bennett University** (2022-2026) with a **CGPA of 9.5**. I specialize in **AI, Deep Learning, and Web Development**. I love solving problems, contributing to **open-source**, and building impactful tech solutions.
 
-# About Me
-**💡 Passionate AI and machine learning enthusiast** with a strong foundation in **deep learning** and **large language models (LLMs)**. I'm working on exciting projects using advanced **neural network architectures** to solve real-world problems in **healthcare, computer vision**, and **natural language processing**. My expertise spans **AI/ML**, **Generative AI**, and **LLM fine-tuning**, always pushing the boundaries of innovation.
+## 🚀 About Me  
+💡 Passionate **AI & Machine Learning Enthusiast** with expertise in **Deep Learning, LLMs, and Generative AI**.  
+🔬 Exploring **transformers, model fine-tuning, and neural network architectures** to build AI-driven solutions in **healthcare, NLP, and computer vision**.  
+📊 Skilled in **Predictive Modeling, AI Scalability, and MLOps** – always pushing the boundaries of innovation!  
 
-## What I’m Looking For:
-🤝 I’m actively seeking collaboration on **cutting-edge AI/ML projects**, especially involving **transformer models**, **LLMs**, and **AI-driven applications**. I enjoy tackling novel challenges and contributing to open-source projects.
+## 🤝 Open to Collaborations  
+- 💡 Interested in **cutting-edge AI/ML projects** involving **transformer models, LLMs, and AI-driven applications**.  
+- 🚀 Open to contributing to **open-source** and **research-focused AI advancements**.  
+- 🎯 Always up for brainstorming and tackling **novel AI challenges**.  
 
-## What I'm Learning:
-🌱 Currently diving into **advanced neural networks**, **model optimization techniques**, and **AI scalability**. Whether experimenting with state-of-the-art architectures or fine-tuning models for precision, I aim to stay at the forefront of technology.
+## 📖 Currently Learning  
+🌱 Deep-diving into **advanced neural networks, model optimization, and AI scalability**.  
+💻 Experimenting with **state-of-the-art architectures, reinforcement learning, and multi-modal AI models**.  
 
-## Let’s Connect:
-💬 Ask me about **AI research**, **ML algorithms**, **Generative AI**, or any **technical topic** related to **AI/ML**. I’m always up for sharing insights or bouncing ideas to explore what's possible in the AI space.
+## 🔥 Skills & Tech Stack  
+🚀 **AI & ML:** Deep Learning, NLP, Computer Vision, Transformers, Generative AI  
+⚡ **AI Frameworks:** TensorFlow, PyTorch, Hugging Face, OpenAI API, Gemini API  
+🌎 **Cloud & Big Data:** AWS, Google Cloud, MLOps, Data Engineering  
+🌐 **Web Development:** Django, Flask, JavaScript, HTML/CSS, Bootstrap  
 
-⚡ **Fun Fact:** When not coding, I enjoy reading AI research papers, staying updated with the latest advancements, and experimenting with **new models** or **frameworks**.
+## 🌟 Featured Projects  
+🔹 **[Delhi-Care](https://delhi-care.vercel.app)** – Smart hospital solution for OPD queuing, bed management, and real-time synchronization.  
+🔹 **[ODOP](https://github.com/sidd707/ODOP)** – E-commerce platform promoting district-wise local products.  
+🔹 **Face Reconstruction AI** – ML-powered system to enhance CCTV footage quality for face detection.  
 
-📫 **Let’s build the future of AI together!**
+## 🧪 Research Experience  
 
-### Check out my work:
-- GitHub: [github.com/sidd707](https://github.com/sidd707)
-- LinkedIn: [linkedin.com/in/siddharth-patel-505935251](https://www.linkedin.com/in/siddharth-patel-505935251)
+### 🏥 CNN-Based Skin Disease and Cancer Classification | [2024 Second International Conference on Microwave, Antenna and Communication (MAC)] (https://ieeexplore.ieee.org/document/10837323)  
+📅 **July 2024 – Sep 2024**  
+- 🏆 Developed a **CNN model** with **96.64% accuracy** for detecting **57 skin diseases**, including cancer.  
+- 📊 **Benchmarked** against **VGG16, MobileNet, and Inception V3**, achieving superior results.  
+- 🔬 Focused on **medical image classification and deep learning advancements**.  
+
+### 🧠 Deep Learning-Based Brain Tumor Detection | IEEE Conference[IC3SE-2025] *(Coming Soon)*  
+📅 **Nov 2024 – Present**  
+- 🛠 **Designed and benchmarked CNN models** against **VGG16, MobileNet, and Inception V3** for **brain tumor detection**.  
+- 🚀 Achieved superior performance by **addressing key challenges in medical imaging analysis**.  
+- 🔍 Research focuses on **improving diagnostic accuracy using deep learning techniques**.  
+
+
+## 🏆 Achievements  
+🎖 **Flipkart Grid 6.0 Robotics Challenge** - qualified round one(work on Warehouse problems)    
+🎖 **Amazon ML Challenge** – Rank **409** among 60,000+ teams (OCR on 1L+ images)  
+🎖 **HackEye Hackathon** – **Top 10** among inter college (Smart QR-based Attendance System)  
+🎖 **Inspire Awards** – **1st Rank** among 10,000+ teams (IoT-based alcohol detection for drivers)
+**many more coming soon**
+
+
+## 🔗 Let’s Connect!  
+💬 Ask me about **AI research, ML algorithms, Generative AI, and deep learning models**! I love discussing innovative ideas and collaborating on groundbreaking projects.  
+
+📫 **Reach Out Here:**  
+- 🏢 GitHub: [github.com/sidd707](https://github.com/sidd707)  
+- 💼 LinkedIn: [linkedin.com/in/siddharth-patel-505935251](https://www.linkedin.com/in/siddharth-patel-505935251)  
+- ⚡ LeetCode: [leetcode.com/u/sidd888/](https://leetcode.com/u/sidd888/)  
+
+🚀 **Let’s build the future of AI together!**  
+
 
 
 
