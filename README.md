@@ -43,9 +43,13 @@ Hi! My name is **Siddharth Patel**. I am a **B.Tech Computer Science** student a
 
 ## 🏆 Achievements  
 🎖 **Convolve 3.0: A Pan IIT AI/ML Hackathon ** | Top 50 / 4000+ Teams
+
 🎖 **Flipkart Grid 6.0 Robotics Challenge** - qualified round one(work on Warehouse problems)    
+
 🎖 **Amazon ML Challenge** – Rank **409** among 60,000+ teams (OCR on 1L+ images)  
+
 🎖 **HackEye Hackathon** – **Top 10** among inter college (Smart QR-based Attendance System)  
+
 🎖 **Inspire Awards** – **1st Rank** among 10,000+ teams (IoT-based alcohol detection for drivers)
 **many more coming soon**
 
