@@ -42,7 +42,7 @@ Hi! My name is **Siddharth Patel**. I am a **B.Tech Computer Science** student a
 
 
 ## 🏆 Achievements  
-🎖 **Convolve 3.0: A Pan IIT AI/ML Hackathon ** | Top 50 / 4000+ Teams
+🎖 **Convolve 3.0: A Pan IIT AI/ML Hackathon** | Top 50 / 4000+ Teams
 
 🎖 **Flipkart Grid 6.0 Robotics Challenge** - qualified round one(work on Warehouse problems)    
 
