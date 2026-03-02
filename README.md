@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-6C63FF?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1wUrlvMbia3wkqIJ8YKioV3vfbANxAr5p/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-6C63FF?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/15dXSHIhakItE5DpxD0Ri5baQK-8S1Kvg/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-patel-505935251/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sidd707888@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sidd888/)
