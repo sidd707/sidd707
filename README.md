@@ -135,13 +135,11 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidd707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd707&theme=tokyonight&hide_border=true" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd707&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<br/>
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidd707&theme=tokyo-night&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidd707&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
