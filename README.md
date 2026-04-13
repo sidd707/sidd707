@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Siddharth%20Patel&fontSize=90&fontAlignY=35&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;3x+Published+%7C+Top+1%25+Amazon+ML;Building+Multi-Agent+RAG+Systems;Serving+10K%2B+Users+in+Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+Finalist+%F0%9F%8F%86;3x+Published+%7C+Top+1%25+Amazon+ML;Building+Multi-Agent+RAG+Systems;Serving+10K%2B+Users+in+Production" />
 
 <br/>
 
@@ -16,6 +16,42 @@
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sidd707&color=6C63FF&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🏆 Meta PyTorch OpenEnv Hackathon — Round 1 Finalist
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🏅_Selected_from-52,000+_Developers-FF6B35?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Meta-Sponsor-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Sponsor-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-Sponsor-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scaler_SST-Organizer-6C63FF?style=for-the-badge" />
+<br/><br/>
+
+**Built [SafeAct-Env](https://github.com/sidd707/my-openenv)** — an RL environment that trains AI agents to distinguish reversible from irreversible actions.
+5 real-world tasks · 164 tests · GPT-4.1 baseline avg **0.82** · Deployed on [HuggingFace Spaces](https://huggingface.co/spaces/Sarthak4156/safeact-env)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-SafeAct--Env-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/my-openenv)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Live_Demo-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/Sarthak4156/safeact-env)
+
+</td>
+</tr>
+</table>
+
+**Team Peaky Blinders** — Siddharth Patel & [Sarthak Chauhan](https://github.com/Sarthak4156)
 
 </div>
 
@@ -44,6 +80,7 @@ class SiddharthPatel:
 
     def achievements(self):
         return {
+            "hackathon"   : "Meta OpenEnv Finalist (52K+ devs)",
             "publications": 3,
             "competitions": "Top 1% Amazon ML (30K+ teams)",
             "accuracy"    : "90–96% across research projects",
@@ -90,7 +127,7 @@ graph TB
         D1[3 Publications<br/>IEEE • AICAPS • IC3SE]
         D2[10K+ Users Served<br/>Production Systems]
         D3[Top 1% Amazon ML<br/>30K+ Teams]
-        D4[Future: AI Safety<br/>Edge AI Research]
+        D4[Meta Hackathon Finalist<br/>AI Safety RL Env]
     end
 
     A1 --> B1 & B2
@@ -123,8 +160,9 @@ timeline
          : Joined Cograd Technologies
          : Built Multi-Agent RAG Systems
     2026 : Serving 10,000+ users in production
+         : Meta OpenEnv Hackathon Finalist (52K+ devs)
+         : Built SafeAct-Env — AI Safety RL Environment
          : Government-funded fog removal project
-         : AI Safety & Edge AI research ongoing
 ```
 
 <br/>
@@ -148,6 +186,55 @@ timeline
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
+
+### 🛡️ SafeAct-Env — AI Safety RL Environment
+
+<table>
+<tr>
+<td width="60%">
+
+**The Challenge:** AI agents cause irreversible damage in production — wiping drives, deleting databases, sending unrecoverable actions — and no RL training environment existed for this problem.
+
+**The Solution:** OpenEnv-compatible RL environment with:
+- 5 real-world tasks across increasing complexity
+- Hidden risk labels (safe/risky/irreversible) — agent never sees them
+- Escalation mechanic — agents must ask before dangerous actions
+- Trap actions — sound safe but are catastrophic
+- Deterministic graders with seeded randomization
+
+**Impact:**
+- 🏆 Selected from 52,000+ developers in Meta Hackathon
+- 🧪 164 tests, full Docker deployment
+- 📊 GPT-4.1 baseline averages 0.82 across all tasks
+- 🌐 Live on HuggingFace Spaces
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+
+**Sponsors:**
+
+![Meta](https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface)
+
+**Links:**
+🔗 [Live Demo](https://huggingface.co/spaces/Sarthak4156/safeact-env)
+💻 [GitHub](https://github.com/sidd707/my-openenv)
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🔮 DataWhiz — Multi-Agent Text-to-SQL System
 
@@ -419,7 +506,8 @@ timeline
 
 | Category | Achievement |
 |----------|-------------|
-| 🥇 **Competitions** | Top 1% Amazon ML Challenge (30K+ teams) · Top 50 Pan-IIT · 1st Place Inspire Hackathon |
+| 🥇 **Hackathons** | **Meta OpenEnv Hackathon Finalist** (52K+ devs) · 1st Place Inspire Hackathon |
+| 🥇 **Competitions** | Top 1% Amazon ML Challenge (30K+ teams) · Top 50 Pan-IIT |
 | 🎓 **Academic** | 9.66/10 CGPA · Dean's List (3 semesters) · Top 10% GATE 2025 |
 | 📚 **Research** | 3 Publications (IEEE · IC3SE · AICAPS) · 90–96% Accuracy · 700K+ sample dataset |
 | 💼 **Industry** | 10K+ Users Served · Azure Production Deployment · 70% Performance Boost |
@@ -434,17 +522,17 @@ timeline
 
 ```yaml
 research_interests:
-  - AI Safety & Constitutional AI
+  - AI Safety & Irreversible Action Prevention
   - Reinforcement Learning from Human Feedback (RLHF)
   - Multi-Modal Large Language Models
   - Edge AI & Model Optimization
   - Graph Neural Networks (GNNs)
 
 current_projects:
+  - SafeAct-Env — AI Safety RL Environment (Meta Hackathon)
   - Multi-Agent RAG Systems @ Cograd Technologies
   - Government-Funded Real-Time Fog Removal
   - Edge AI Optimization (GGUF quantization)
-  - Physics-Informed Neural Networks Research
 
 learning:
   - Advanced RL algorithms (PPO, SAC, A3C)
@@ -509,6 +597,6 @@ learning:
 
 ![Made with Love](https://img.shields.io/badge/Made_with-💜_and_☕-6C63FF?style=for-the-badge)
 
-<sub>Last Updated: March 2026 · v4.2</sub>
+<sub>Last Updated: April 2026 · v5.0</sub>
 
 </div>
