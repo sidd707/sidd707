@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Siddharth%20Patel&fontSize=90&fontAlignY=35&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+Finalist+%F0%9F%8F%86;3x+Published+%7C+Top+1%25+Amazon+ML;Building+Multi-Agent+RAG+Systems;Serving+10K%2B+Users+in+Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+Finalist+%F0%9F%8F%86;4+Research+Papers+%7C+Top+1%25+Amazon+ML;Building+Multi-Agent+RAG+Systems;Serving+10K%2B+Users+in+Production" />
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-6C63FF?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/15dXSHIhakItE5DpxD0Ri5baQK-8S1Kvg/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-6C63FF?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/10bTQX5Z9yGfry3beiizBHnnfP9uPlOgk/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-patel-505935251/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sidd707888@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sidd888/)
@@ -25,13 +25,14 @@
 
 <div align="center">
 
-## 🏆 Meta PyTorch OpenEnv Hackathon — Round 1 Finalist
+## Meta PyTorch OpenEnv Hackathon — Round 1 Finalist
 
 <table>
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/🏅_Selected_from-52,000+_Developers-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Selected_from-52,000+_Developers-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Top_800-31,000+_Teams-6C63FF?style=for-the-badge" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Meta-Sponsor-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-Sponsor-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -45,7 +46,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SafeAct--Env-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/my-openenv)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Live_Demo-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/Sarthak4156/safeact-env)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Live_Demo-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Sarthak4156/safeact-env)
 
 </td>
 </tr>
@@ -59,7 +60,7 @@
 
 ---
 
-<h2 align="center">🎯 About Me</h2>
+<h2 align="center">About Me</h2>
 
 ```python
 class SiddharthPatel:
@@ -67,29 +68,27 @@ class SiddharthPatel:
         self.role       = "AI Engineer & ML Researcher"
         self.company    = "Cograd Technologies"
         self.education  = "B.Tech AI/ML | Bennett University"
-        self.cgpa       = "9.66/10 | Dean's List (3x)"
+        self.cgpa       = "9.7/10 | Dean's List (3x — Top 2%)"
         self.location   = "Greater Noida, India"
 
     def current_work(self):
         return {
-            "building"   : "Multi-Agent RAG Systems",
+            "building"   : "Multi-Agent RAG Systems & Agentic AI",
             "serving"    : "10,000+ users on Azure",
             "researching": "AI Safety & Edge AI",
-            "tech_stack" : ["LangChain", "LangGraph", "PyTorch", "FastAPI"]
+            "tech_stack" : ["LangGraph", "CrewAI", "PyTorch", "FastAPI"]
         }
 
     def achievements(self):
         return {
             "hackathon"   : "Meta OpenEnv Finalist (52K+ devs)",
-            "publications": 3,
+            "publications": 4,
             "competitions": "Top 1% Amazon ML (30K+ teams)",
-            "accuracy"    : "90–96% across research projects",
-            "dean_list"   : "3 semesters (Top 5%)"
+            "gate"        : "Top 10% GATE 2025 & 2026",
+            "dean_list"   : "3 semesters (Top 2%)"
         }
 
 me = SiddharthPatel()
-print(f"🚀 Currently: {me.current_work()}")
-print(f"🏆 Achievements: {me.achievements()}")
 ```
 
 <p align="center">
@@ -101,30 +100,30 @@ From publishing papers to serving production systems, I bridge research and real
 
 ---
 
-<h2 align="center">🧠 Neural Network: My AI Journey</h2>
+<h2 align="center">Neural Network: My AI Journey</h2>
 
 ```mermaid
 graph TB
-    subgraph Input["🎓 INPUT LAYER"]
+    subgraph Input["INPUT LAYER"]
         A1[B.Tech AI/ML<br/>Bennett University]
-        A2[CGPA: 9.66/10<br/>Dean's List 3x]
-        A3[Competitive Programming<br/>LeetCode • Kaggle]
+        A2[CGPA: 9.7/10<br/>Dean's List 3x]
+        A3[Competitive Programming<br/>LeetCode · Kaggle]
     end
 
-    subgraph Hidden1["🔬 HIDDEN LAYER 1: Research"]
+    subgraph Hidden1["HIDDEN LAYER 1: Research"]
         B1[NLP Research<br/>Hinglish Dataset<br/>700K+ samples]
         B2[Computer Vision<br/>Medical Imaging<br/>MRI Analysis]
         B3[Multi-Modal AI<br/>Skin Disease<br/>57 Classes]
     end
 
-    subgraph Hidden2["💻 HIDDEN LAYER 2: Engineering"]
+    subgraph Hidden2["HIDDEN LAYER 2: Engineering"]
         C1[Multi-Agent Systems<br/>LangGraph + CrewAI]
         C2[RAG Pipelines<br/>Vector Databases]
         C3[Production ML<br/>Azure Cloud]
     end
 
-    subgraph Output["🚀 OUTPUT LAYER: Impact"]
-        D1[3 Publications<br/>IEEE • AICAPS • IC3SE]
+    subgraph Output["OUTPUT LAYER: Impact"]
+        D1[4 Publications<br/>IEEE · DICCT · IC3SE · AICAPS]
         D2[10K+ Users Served<br/>Production Systems]
         D3[Top 1% Amazon ML<br/>30K+ Teams]
         D4[Meta Hackathon Finalist<br/>AI Safety RL Env]
@@ -147,7 +146,7 @@ graph TB
 
 ---
 
-<h2 align="center">🗺️ My AI Journey Timeline</h2>
+<h2 align="center">My AI Journey Timeline</h2>
 
 ```mermaid
 timeline
@@ -159,9 +158,12 @@ timeline
     2025 : 2nd & 3rd Publications accepted
          : Joined Cograd Technologies
          : Built Multi-Agent RAG Systems
+         : Top 10% GATE (DS & AI)
+         : Amazon ML Summer School (selective cohort)
     2026 : Serving 10,000+ users in production
          : Meta OpenEnv Hackathon Finalist (52K+ devs)
-         : Built SafeAct-Env — AI Safety RL Environment
+         : 4th Paper accepted at DICCT 2026
+         : Top 10% GATE 2026 (DS & AI)
          : Government-funded fog removal project
 ```
 
@@ -169,7 +171,7 @@ timeline
 
 ---
 
-<h2 align="center">📊 GitHub Performance Dashboard</h2>
+<h2 align="center">GitHub Performance Dashboard</h2>
 
 <div align="center">
 
@@ -185,9 +187,9 @@ timeline
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
-### 🛡️ SafeAct-Env — AI Safety RL Environment
+### SafeAct-Env — AI Safety RL Environment
 
 <table>
 <tr>
@@ -196,17 +198,16 @@ timeline
 **The Challenge:** AI agents cause irreversible damage in production — wiping drives, deleting databases, sending unrecoverable actions — and no RL training environment existed for this problem.
 
 **The Solution:** OpenEnv-compatible RL environment with:
-- 5 real-world tasks across increasing complexity
+- 5 real-world tasks (File Cleanup, DB Maintenance, Server Migration, Medical Triage, Cloud Infra)
 - Hidden risk labels (safe/risky/irreversible) — agent never sees them
 - Escalation mechanic — agents must ask before dangerous actions
 - Trap actions — sound safe but are catastrophic
-- Deterministic graders with seeded randomization
+- 164 deterministic tests with seeded randomization
 
 **Impact:**
-- 🏆 Selected from 52,000+ developers in Meta Hackathon
-- 🧪 164 tests, full Docker deployment
-- 📊 GPT-4.1 baseline averages 0.82 across all tasks
-- 🌐 Live on HuggingFace Spaces
+- Selected from 52,000+ developers · Top 800 / 31,000+ teams
+- GPT-4.1 baseline averages 0.82 across all tasks
+- Full Docker deployment · Live on HuggingFace Spaces
 
 </td>
 <td width="40%">
@@ -218,17 +219,9 @@ timeline
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
-**Sponsors:**
-
-![Meta](https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface)
-
-**Links:**
-🔗 [Live Demo](https://huggingface.co/spaces/Sarthak4156/safeact-env)
-💻 [GitHub](https://github.com/sidd707/my-openenv)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/my-openenv)
+[![Demo](https://img.shields.io/badge/HuggingFace-Live_Demo-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Sarthak4156/safeact-env)
 
 </td>
 </tr>
@@ -236,25 +229,25 @@ timeline
 
 ---
 
-### 🔮 DataWhiz — Multi-Agent Text-to-SQL System
+### KVS Query — Multi-Agent Text-to-SQL System
 
 <table>
 <tr>
 <td width="60%">
 
-**The Challenge:** Traditional Text-to-SQL fails with 200+ table databases.
+**The Challenge:** Traditional Text-to-SQL fails with large government school databases (200+ tables).
 
-**The Solution:** Multi-agent system using GPT-4o + LangChain with:
-- Semantic schema retrieval via Qdrant vector DB
-- 3-agent orchestration: Generator → Validator → Optimizer
-- Automated visualization powered by LIDA
+**The Solution:** Enterprise agentic system using GPT-4o + LangChain with:
+- Schema-aware semantic retrieval via Qdrant vector DB
+- Multi-agent orchestration: Generator → Validator → Optimizer
+- Auto-visualization powered by LIDA
 - Self-correcting query pipeline
 
 **Impact:**
-- 📊 Handles 200+ table databases seamlessly
-- ⚡ 85%+ accuracy on complex queries
-- 🚀 Deployed & live on Azure Cloud
-- 🎯 Sub-3-second response time
+- Handles 200+ table databases seamlessly
+- 85%+ accuracy on complex queries
+- Deployed & live in production on Azure
+- Sub-3-second response time
 
 </td>
 <td width="40%">
@@ -268,9 +261,7 @@ timeline
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
-**Links:**
-🔗 [Live Demo](https://vsk-project.vercel.app/)
-💻 [GitHub](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/Cograd-RAG-Based-Retrieval-)
 
 </td>
 </tr>
@@ -278,7 +269,7 @@ timeline
 
 ---
 
-### 💎 Aurigen — AI Jewelry Design Studio
+### Aurigen — AI Jewelry Design Studio
 
 <table>
 <tr>
@@ -289,14 +280,14 @@ timeline
 **The Solution:** SDXL + ControlNet + Custom LoRA pipeline:
 - Fine-tuned on 6,000 curated jewelry images
 - ControlNet for style & structural control
-- FP16 quantization delivering 3× speedup
+- FP16 quantization delivering 3x speedup
 - Interactive Streamlit generation interface
 
 **Impact:**
-- ⚡ 8-second inference (down from 24s)
-- 🎨 High-quality 512×512 designs
-- 💾 40% memory reduction
-- ✨ Real-time interactive generation
+- 8-second inference (down from 24s)
+- High-quality 512x512 designs
+- 40% memory reduction
+- Real-time interactive generation
 
 </td>
 <td width="40%">
@@ -309,8 +300,7 @@ timeline
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
-**Links:**
-💻 [GitHub](https://github.com/sidd707/Aurigen-AI-Powered-Jewelry-Design-Studio)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/Aurigen-AI-Powered-Jewelry-Design-Studio)
 
 </td>
 </tr>
@@ -318,25 +308,26 @@ timeline
 
 ---
 
-### 💬 AI Live Class Doubt Management
+### AI-Powered Live Class Doubt Management
 
 <table>
 <tr>
 <td width="60%">
 
-**The Challenge:** 1,000+ students, real-time doubts get lost in noise.
+**The Challenge:** 1,000+ students, real-time doubts get lost in noise during live classes.
 
 **The Solution:** NLP + Vector clustering system:
-- pgvector for semantic similarity matching
+- pgvector semantic clustering auto-resolves 70-80% of doubts
 - Redis priority queue for real-time processing
-- Async LLM pipeline with GPT-4
+- Async LLM pipeline with GPT-4 at 85%+ accuracy
 - Chrome extension for live class chat integration
+- Building B2B API wrapper for EdTech platforms
 
 **Impact:**
-- ⚡ 70% faster response time
-- 🎯 85%+ context-aware accuracy
-- 🚀 100+ concurrent doubts handled
-- 📊 Event-driven microservices architecture
+- 70% faster teacher response time
+- 100+ concurrent doubts handled with de-duplication
+- Priority clustering dashboard for teachers
+- Event-driven microservices architecture
 
 </td>
 <td width="40%">
@@ -349,8 +340,7 @@ timeline
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-**Links:**
-💻 [GitHub](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/streammind-live-qa)
 
 </td>
 </tr>
@@ -358,25 +348,26 @@ timeline
 
 ---
 
-### 🌫️ Government-Funded Fog Removal System
+### Government-Funded Fog Removal System
 
 <table>
 <tr>
 <td width="60%">
 
-**The Challenge:** Winter fog is a leading cause of road accidents in North India.
+**The Challenge:** Winter fog is a leading cause of road accidents in North India — critical for ADAS and autonomous driving.
 
 **The Solution:** Real-time Computer Vision safety pipeline:
-- Custom CNN dehazing network
-- YOLOv8 for multi-class object detection
-- ONNX optimization for edge deployment
-- Custom annotated winter fog dataset
+- Custom 1,000+ video domain-specific fog/haze dataset
+- Novel encoder-decoder dehazing architecture
+- YOLOv8 + ONNX for edge deployment
+- Targets dense-fog Indian highway scenarios
 
 **Impact:**
-- 🟢 85%+ visibility improvement
-- 🎯 90%+ mAP maintained post-dehazing
-- ⚡ 30 FPS real-time inference
-- 📱 Runs on Raspberry Pi & Jetson Nano
+- 85%+ visibility improvement
+- 90%+ mAP maintained post-dehazing
+- 30+ FPS real-time edge inference
+- Runs on Raspberry Pi & Jetson Nano
+- Paper accepted at **DICCT 2026**
 
 </td>
 <td width="40%">
@@ -388,8 +379,8 @@ timeline
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
-**Status:** 🔄 In Progress
-**Paper:** Coming Soon
+**Mentor:** Dr. Dileep Kumar Yadav
+**Status:** Paper Accepted at DICCT 2026
 
 </td>
 </tr>
@@ -399,15 +390,16 @@ timeline
 
 ---
 
-<h2 align="center">📚 Research Publications</h2>
+<h2 align="center">Research Publications</h2>
 
 <div align="center">
 
-| # | Paper | Venue | Metric | Dataset | Status |
-|---|-------|-------|--------|---------|--------|
-| 3 | **Hinglish Abusive Comment Detection** | AICAPS 2026 | 90% F1 | 700K+ posts | ✅ Accepted |
-| 2 | **Brain Tumor Detection via Multi-Modal MRI** | IC3SE 2025 | 94% Acc | Multi-modal MRI | ✅ Published |
-| 1 | **Skin Disease Classification** | MAC 2024 (IEEE) | 96.64% Acc | 57 classes | ✅ [Published](https://ieeexplore.ieee.org/document/10837323) |
+| # | Paper | Venue | Metric | Status |
+|---|-------|-------|--------|--------|
+| 4 | **Image & Video Dehazing for Dense-Fog Indian Highways** | DICCT 2026 | 30+ FPS Edge | Accepted |
+| 3 | **Hinglish Abusive Comment Detection** | AICAPS 2026 | 90% F1 | Accepted |
+| 2 | **Brain Tumor Detection via Multi-Modal MRI** | IC3SE 2025 | 97.7% Acc | [Published](https://github.com/sidd707/Brain-tumor-Detection) |
+| 1 | **CNN-Based Skin Disease & Cancer Classification** | IEEE MAC 2024 | 96.64% Acc | [Published](https://ieeexplore.ieee.org/document/10837323) |
 
 </div>
 
@@ -415,11 +407,11 @@ timeline
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<details open>
-<summary><b>🤖 AI/ML & Deep Learning</b></summary>
-<br/>
+<div align="center">
+
+### AI/ML & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -430,11 +422,9 @@ timeline
 
 **Architectures:** Transformers · BERT · GPT · CNNs · RNNs · GANs · Diffusion Models · YOLO · ControlNet · LoRA / QLoRA
 
-</details>
+---
 
-<details>
-<summary><b>🦾 GenAI & LLM Engineering</b></summary>
-<br/>
+### Agentic AI & LLM Engineering
 
 ![GPT-4](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge)
@@ -453,13 +443,11 @@ timeline
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C58E?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
 
-**Techniques:** RAG · Multi-Agent Systems · Fine-tuning (LoRA, QLoRA) · Prompt Engineering · Function Calling · Agentic Workflows
+**Techniques:** RAG · Multi-Agent Systems · Fine-tuning (LoRA, QLoRA, GGUF, RLHF) · MCP · Claude Agent SDK · Context Engineering · Agentic Loops
 
-</details>
+---
 
-<details>
-<summary><b>☁️ MLOps & Production</b></summary>
-<br/>
+### Cloud, MLOps & Production
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -467,14 +455,13 @@ timeline
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx)
+![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Advanced:** DeepSpeed · FSDP · GGUF · GPTQ · AWQ Quantization
+---
 
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -482,35 +469,16 @@ timeline
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</details>
+---
 
-<details>
-<summary><b>💻 Languages & Tools</b></summary>
-<br/>
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-<br/>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-| Category | Achievement |
-|----------|-------------|
-| 🥇 **Hackathons** | **Meta OpenEnv Hackathon Finalist** (52K+ devs) · 1st Place Inspire Hackathon |
-| 🥇 **Competitions** | Top 1% Amazon ML Challenge (30K+ teams) · Top 50 Pan-IIT |
-| 🎓 **Academic** | 9.66/10 CGPA · Dean's List (3 semesters) · Top 10% GATE 2025 |
-| 📚 **Research** | 3 Publications (IEEE · IC3SE · AICAPS) · 90–96% Accuracy · 700K+ sample dataset |
-| 💼 **Industry** | 10K+ Users Served · Azure Production Deployment · 70% Performance Boost |
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
@@ -518,7 +486,27 @@ timeline
 
 ---
 
-<h2 align="center">🔭 Currently Exploring</h2>
+<h2 align="center">Achievements & Certifications</h2>
+
+<div align="center">
+
+| Category | Achievement |
+|----------|-------------|
+| **Hackathons** | **Meta OpenEnv Finalist** (Top 800 / 31K+ teams) · **1st Place** Inspire Awards (6K+ teams) · Top 50 Convolve 3.0 Pan-IIT (4K+ teams) · Top 10 HackEye (300+ teams) |
+| **Competitions** | **Top 1%** Amazon ML Challenge (30K+ teams) · Amazon ML Summer School 2025 (selective cohort) |
+| **Academic** | 9.7/10 CGPA · Dean's List (3 semesters — Top 2%) · Top 10% GATE 2025 & 2026 (DS & AI) |
+| **Research** | 4 Papers (IEEE · IC3SE · AICAPS · DICCT) · 90-97% Accuracy · 700K+ sample dataset |
+| **Industry** | 10K+ Users Served · Azure Production · 70% Performance Boost |
+| **Certifications** | Deep Learning Specialization (DeepLearning.AI) · NLP Specialization (DeepLearning.AI) |
+| **Leadership** | Hackathon Organizer — Cograd x IIT Bombay Techfest · 1,500+ participants · Mentored 100+ students |
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">Currently Exploring</h2>
 
 ```yaml
 research_interests:
@@ -526,18 +514,18 @@ research_interests:
   - Reinforcement Learning from Human Feedback (RLHF)
   - Multi-Modal Large Language Models
   - Edge AI & Model Optimization
-  - Graph Neural Networks (GNNs)
+  - Physics-Informed Neural Networks (PINNs)
 
 current_projects:
-  - SafeAct-Env — AI Safety RL Environment (Meta Hackathon)
+  - Student Job Engine — 7-Agent AI Resume Optimizer (LangGraph + Claude API)
   - Multi-Agent RAG Systems @ Cograd Technologies
-  - Government-Funded Real-Time Fog Removal
-  - Edge AI Optimization (GGUF quantization)
+  - Government-Funded Real-Time Fog Removal (DICCT 2026)
+  - Edge AI Optimization (GGUF, GPTQ, AWQ quantization)
 
 learning:
   - Advanced RL algorithms (PPO, SAC, A3C)
   - Constitutional AI techniques
-  - Efficient quantization (GGUF, GPTQ, AWQ)
+  - MCP (Model Context Protocol) & Agentic Workflows
   - Distributed training (DeepSpeed, FSDP)
 ```
 
@@ -545,19 +533,7 @@ learning:
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sidd707/sidd707/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">📬 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
 <strong>Open to research collaborations, open-source contributions, and building intelligent systems.</strong>
@@ -572,7 +548,7 @@ learning:
 <br/>
 
 **Quick Links:**
-[Resume](https://drive.google.com/file/d/1wUrlvMbia3wkqIJ8YKioV3vfbANxAr5p/view?usp=sharing) ·
+[Resume](https://drive.google.com/file/d/10bTQX5Z9yGfry3beiizBHnnfP9uPlOgk/view?usp=sharing) ·
 [Google Scholar](https://scholar.google.com/citations?user=dq-2pX8AAAAJ) ·
 [LeetCode](https://leetcode.com/u/sidd888/) ·
 [Kaggle](https://www.kaggle.com/sidd108)
@@ -587,16 +563,16 @@ learning:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<h3>💭 Philosophy</h3>
+<h3>Philosophy</h3>
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
-**Building AI systems that matter, one model at a time.** 🚀
+**Building AI systems that matter, one model at a time.**
 
 <br/>
 
-![Made with Love](https://img.shields.io/badge/Made_with-💜_and_☕-6C63FF?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made_with-Love_and_Coffee-6C63FF?style=for-the-badge)
 
-<sub>Last Updated: April 2026 · v5.0</sub>
+<sub>Last Updated: April 2026</sub>
 
 </div>
