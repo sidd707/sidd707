@@ -229,25 +229,31 @@ timeline
 
 ---
 
-### KVS Query — Multi-Agent Text-to-SQL System
+### KVS Query — B2B Agentic Text-to-SQL Platform
 
 <table>
 <tr>
 <td width="60%">
 
-**The Challenge:** Traditional Text-to-SQL fails with large government school databases (200+ tables).
+**The Challenge:** Government school databases have 200+ tables — traditional Text-to-SQL fails, and manual querying doesn't scale for B2B enterprise clients.
 
-**The Solution:** Enterprise agentic system using GPT-4o + LangChain with:
+**The Solution:** Two distinct model architectures built & benchmarked:
+
+**Architecture 1 — Multi-Agent Pipeline:**
+- LangGraph-orchestrated agents: Schema Retriever → Query Generator → Validator → Optimizer
 - Schema-aware semantic retrieval via Qdrant vector DB
-- Multi-agent orchestration: Generator → Validator → Optimizer
+- Self-correcting query loop with auto-retry
+
+**Architecture 2 — Direct Multi-Model Pipeline:**
+- Sequential pipeline chaining multiple specialized models
+- Each stage (schema mapping, SQL generation, validation, visualization) handled by a dedicated model
 - Auto-visualization powered by LIDA
-- Self-correcting query pipeline
 
 **Impact:**
 - Handles 200+ table databases seamlessly
 - 85%+ accuracy on complex queries
-- Deployed & live in production on Azure
-- Sub-3-second response time
+- Live in production at [vskai.cograd.in](https://vskai.cograd.in/) on Azure
+- Sub-3-second response time · B2B API for enterprise clients
 
 </td>
 <td width="40%">
@@ -261,6 +267,7 @@ timeline
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
+[![Live](https://img.shields.io/badge/Live-vskai.cograd.in-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vskai.cograd.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sidd707/Cograd-RAG-Based-Retrieval-)
 
 </td>
